@@ -1,0 +1,29 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+/* header */
+header {
+    background-color: aliceblue;
+    
+}
+header ul{
+    display: flex;
+    padding-right: 20px;
+}
+
+/* main */
+
+main section {
+   
+}
+
+.sub-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+/* footer */
